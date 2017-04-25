@@ -1,6 +1,6 @@
 # npmdoc-altair.io
 
-#### api documentation for  altair.io (v0.6.2)  [![npm package](https://img.shields.io/npm/v/npmdoc-altair.io.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-altair.io) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-altair.io.svg)](https://travis-ci.org/npmdoc/node-npmdoc-altair.io)
+#### basic api documentation for  altair.io (v0.6.2)  [![npm package](https://img.shields.io/npm/v/npmdoc-altair.io.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-altair.io) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-altair.io.svg)](https://travis-ci.org/npmdoc/node-npmdoc-altair.io)
 
 #### A platform to facilitate the building of experiences in the Internet of Everything.
 
